@@ -142,9 +142,7 @@ npm install react-router-dom bootstrap recharts framer-motion jspdf jspdf-autota
 ---
 
 ## Screenshots
-
-Upload screenshots to Google Drive and add your link here:  
-`[Screenshots](https://drive.google.com/drive/folders/your-link-here)`
+https://drive.google.com/drive/folders/19s0Qemuj9dHI36z3PAOrRp8YlrGoIaPW
 
 ---
 
