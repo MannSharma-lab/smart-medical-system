@@ -1,0 +1,9 @@
+# Backend / Java
+/target/
+*.class
+*.log
+
+# Frontend / React
+/frontend/node_modules/
+/frontend/build/
+*.env
